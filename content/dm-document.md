@@ -69,13 +69,21 @@ Inside a bubble the Filter is jammed: no disadvantage, cats react to violence li
 
 **Exception: dream magic.** It happens on a plane the Filter doesn't watch — no bubble needed, no surge, nothing to blind or block.
 
+**The Filter thins below the main deck.** The steel frame thins it on the cabin deck; steel plus fully submerged water thins it more on the lower deck (hold and engine room). Nothing drastic or noticeable, and the box stays the only way to cast properly, but some magic leaks through:
+
+- Spells cast without the box trickle through, faint and never noticeable (cats still cannot perceive magic). They cost the slot; there is no surge (surge is a box effect). Damage spells do nothing.
+- Pass without Trace gives +3 on the cabin deck and +4 on the lower deck, instead of +10. Healing spells heal 1 HP, enough for a demonstration or a clutch. Guidance gives +1. Anything else: the DM rules a tiny, subtle effect.
+- One concentration spell can be held on leaked magic (an exception to the concentration rule under the box, below).
+- **Ingenuity is rewarded:** Knock and Dispel Magic still work on the arcane lock below the main deck, so a party that thinks to carry the Captain's safe down can open it without the box (see Goal 2).
+- Small background effects: Litta's plants grow a little faster than they should on these decks (Bonus A and B clues), and Agatha's saves against the Glowing Cats' Influence improve (Bonus A).
+
 **2. The music-box interference device and its operator** — the Resistance's "noise machine", a hand-cranked music box, carried by the fourth member of the team, a dedicated NPC operator — **Tikk**.
 
-- Radius 20 ft, centered on the box. Magic works only inside it. Stops the moment the crank stops.
+- Radius 20 ft, centered on the box. Magic works only inside it (apart from the faint leak below the main deck, see the Filter). Stops the moment the crank stops.
 - The operator cranks and moves: speed 30 ft, half that while cranking. Any PC may give the operator one command per turn as a free action ("follow me", "stay", "to the hatch"); the operator acts on their own initiative after the command was given. No command = the operator keeps doing the last thing.
 - Operator stats: AC 12, 26 HP, does not fight, Stealth +3. If the operator is down or separated, a PC may crank instead — that costs the PC's **action** each turn.
 - Audible at 30 ft (15 ft in the noisy hold): a thin waltz. Cats who hear it come to look — politely. Inaudible in the storm.
-- The Filter blocks casting and perceiving, not the magic itself: an effect that is already running keeps running outside the bubble. Two exceptions. A mind effect on a cat (charm, sleep, suggestion) ends the moment that cat leaves the bubble — the Filter takes the mind back. And concentration ends the moment the caster is outside a bubble — whether they walked out or the bubble dropped around them (crank jam, operator down, box broken). It is impossible to concentrate on something you don't know exists.
+- The Filter blocks casting and perceiving, not the magic itself: an effect that is already running keeps running outside the bubble. Two exceptions. A mind effect on a cat (charm, sleep, suggestion) ends the moment that cat leaves the bubble — the Filter takes the mind back. And concentration ends the moment the caster is outside a bubble — whether they walked out or the bubble dropped around them (crank jam, operator down, box broken). It is impossible to concentrate on something you don't know exists (except on leaked magic below the main deck, see the Filter).
 - Fragile: AC 10, 5 HP. A second, damaged box is hidden in Lunna's cabin.
 - Agatha's Glowing Cats influence is jammed inside the bubble.
 
@@ -173,7 +181,7 @@ Upper deck is open and watched; cabin deck is where the goals are; lower deck is
 | 9 | Marty's cabin-study | Camera-glasses on the desk when he sleeps, notes on the crew (including one about the journalist who avoids him), psychoanalysis couch | Never locked; Marty is a light sleeper (Stealth DC 14) | Beat 2: Marty and Litta talk; beat 3: Lunna alone |
 | 10 | Lunna's cabin | Half-finished copy of the documents, damaged spare music box, coded letters to Ikke | Locked DC 14 (she's careful) | Empty: after supper she is never in it |
 | 11 | Galley & mess | Food, knives, the Cook, a hatch to stores, everyone passes through | The Cook notices everything (Perception +7) | The Cook always; crew at meals |
-| 12 | Hold & engine room | Crates, Alvin spares, spare boat, fuel, noise that masks a music box (audible radius 15 ft here) | Engine room hot and noisy | Empty except engineer at watch changes |
+| 12 | Hold & engine room | Crates, Alvin spares, spare boat, fuel, noise that masks a music box (audible radius 15 ft here), the thinnest Filter on the ship (see the Filter) | Engine room hot and noisy | Empty except engineer at watch changes |
 
 **Schedule, by beat** — six beats per run, about two hours of ship time each (Act I is unclocked, before beat 1). P1–P3 are beats 1–3 (pre-descent, after Rokko's push); W1–W3 are beats 4–6 (the post-descent window, same beats as the Act III table). People move around inside a beat; the table shows where each spends most of it. Lunna's interview with Agatha, Marty's talk with Litta and the Cook-and-Yanni knife lesson are all pinned to beat 2 on purpose — see Goals 1 and 2.
 
@@ -267,13 +275,13 @@ Props: a note on Marty's desk about the journalist who avoids him; a notebook of
 
 **What she wants, and how the players learn it.** Three levers: proof that she endangers Marty now, the private talk in beat 5, and the dragon in beat 6. In every conversation she says one true line inside a lie, and each line points at a lever ("I have to see it myself", "I can't say it to his face", and a stillness at Rokko's storm call). Insight DC 14 (or a contest against her +9) shows which line is true; on a failure the hint comes at her second conversation.
 
-**The interview (beat 2, Agatha's cabin).** Mostly about Agatha's search for Catlantis. PCs who listen in (Stealth DC 13 at the door, Perception DC 12 at a porthole, or carrying trays under the Cook's bargain) learn where the three documents are and what Lunna is after: she asks who has read the pages and how Agatha sleeps, checking for danger to Marty. As a journalist, Lunna asks Agatha to read one dictated page aloud, which triggers Agatha's Cha save (DC 13, +2, no proficiency):
+**The interview (beat 2, Agatha's cabin).** Mostly about Agatha's search for Catlantis. PCs who listen in (Stealth DC 13 at the door, Perception DC 12 at a porthole, or carrying trays under the Cook's bargain) learn where the three documents are and what Lunna is after: she asks who has read the pages and how Agatha sleeps, checking for danger to Marty. As a journalist, Lunna asks Agatha to read one dictated page aloud, which triggers Agatha's Cha save (DC 13, +2, no proficiency, +2 more because the cabin deck thins the Filter):
 
 - **Pass:** an informational scene. The lever is not moved.
 - **Fail:** Agatha loses her place mid-sentence and the words are not hers. Lunna witnesses it, the proof lever lands (−1), Agatha's Influence rises by 1, and any PC listening in gets the Bonus A clue.
 - **Natural 1–5:** as a fail, and Agatha goes for the notebook in her room (page 3 orders her to burn it). The DM improvises the aftermath (if the notebook is lost, only Lunna's half copy survives). The destroy outcome belongs to this scene; elsewhere a natural 1–5 is an ordinary failure and the DM improvises.
 
-*Tuning:* a DC 13 save at +2 fails about half the time. If the free lever feels too generous, let it land only on a natural 1–5.
+*Tuning:* the interview is on the cabin deck, so her save is +4 against DC 13 and fails about 40% of the time. If the free lever feels too generous, let it land only on a natural 1–5.
 
 **Results**
 
@@ -318,7 +326,8 @@ In the beat 2 interview Agatha names all three locations; that is the PCs' main 
 
 - **Past the helmsman:** Stealth DC 12 while he watches the sea; Deception or Performance DC 10 to make him look away for a round; Yanni's tea. He is gracious but remembers a caught PC (Suspicion +1).
 - **The key** is in the Captain's coat pocket. Yanni will borrow it for a toy (Persuasion DC 8; DC 15 without one), return it within the scene, and tell everyone (Suspicion +1 per errand after the first). Or distract the Captain (Persuasion or Performance DC 12) while another PC lifts it (Sleight of Hand DC 16; failure is a ledger mark, no alarm). Or take a wax impression and put it back (thieves' tools DC 14). In beats 5–6 he is midship, where the Cook has advantage to spot theft.
-- **Magic:** Knock inside the bubble suppresses the lock for 10 minutes (no Dispel: no 3rd-level spells). The helmsman is inside the bubble, so he sees the spell and keeps it, and he hears the waltz; the Captain perceives magic anyway. A surge roll follows each cast.
+- **Magic:** Knock inside the bubble suppresses the lock for 10 minutes (Dispel Magic ends it, if the party has it). The helmsman is inside the bubble, so he sees the spell and keeps it, and he hears the waltz; the Captain perceives magic anyway. A surge roll follows each cast.
+- **Ingenuity: take it below.** The bridge has the full Filter, but the cabin deck and lower deck do not. A party that unbolts the safe (workshop tools, a beat), carries it down the tower and below the main deck (Athletics DC 12; the polite crew help, and remember) and casts Knock there, or Dispel Magic if they have it, opens it without the box: leaked magic is enough. No surge, no helmsman, no witnesses. Knock suppresses the lock for 10 minutes; Dispel ends it. Reward the idea: it just works.
 - **Force:** hammering fails (DC 25+, and it rings like a gong through the tower). The clever route is the decompression chamber in the launch bay: unbolt the safe (workshop tools, a beat), carry it down the tower and across the deck (Athletics DC 12; the polite crew offer to help, and remember), read the controls (Investigation DC 12) and overpressure it. The seal bursts after a beat, with a bang the whole ship hears; a poor gauge reading soaks the pages (legible but smeared). Fallback: carry the whole safe out. That is Goal 2 partial, Suspicion +2 or more and a ledger entry, and the Resistance opens it later.
 
 **Charts: the wet lab cupboard.** A flimsy cupboard with an easy lock (DC 10, or Athletics DC 8 to pop it, which is noisy). Inside are about a dozen rolls: sonar prints, old sea charts, Litta's sketches, folklore drawings. The PCs do not know which they need unless they roll well (DC 15; each skill gives different extra information). Investigation shows the worn, annotated prints (and that Lunna already copied them). History matches the stepped depth profile to the drowned-city legends. Nature shows which trace is too regular to be a shoal or a reef. On a miss they guess or take everything: taking everything means Agatha notices at beat 4 (Suspicion +2), and a wrong guess means the Resistance finds junk later (Goal 2 partial). Copy: 1 minute per part with Marty's glasses, or 1 hour by hand.
@@ -350,6 +359,7 @@ In the beat 2 interview Agatha names all three locations; that is the PCs' main 
 - **A full minute inside a running bubble**, Marty 20+ ft away: Persuasion DC 12 per minute to keep her there. She notices the change in herself and wants to know why — recruitment opens here.
 - **Litta's remedy** (earth magic + herbs, cast inside the bubble): Medicine DC 12 to get her to drink. Litta becomes a Resistance contact (Bonus B opens).
 - **The contradiction:** the three dictated pages contradict her own sonar charts. If the PCs get her to lay the pages beside the charts (Persuasion DC 10: she loves to explain, and she checks data), she sees her own hand undermining her work and believes it. If she learns this **before the descent** (beats 1–3), the Descent clock gains a segment (she stops the dive to correct the expedition's figures; it counts toward the +2 maximum from Goal 3) but the window loses one: the site is now right and Rokko finds the seal faster. Merge W1 and W2 (the sky turns and the sea heaves together); W3 is unchanged. If she learns it after the dive, the clocks do not change.
+- **Below the main deck:** the thin Filter also thins the Glowing Cats' hold on her. Her saves against Influence get +2 on the cabin deck and +4 on the lower deck (the open main deck, such as the rail, stays at full strength), and a full beat on the lower deck lowers Influence by 1, once.
 - **Holding the rail in Act III** (with Kot Kong): Athletics contest vs her +5, four successes before three failures. Loud; inside a bubble she fights back un-Filtered and remembers.
 - **Recruiting her**, once something real has been shown: Persuasion DC 14, DC 10 if she has seen the box work or the contradiction. She comes willingly — or says "not yet" and keeps the secret; either is fine.
 - **Taking her by force:** only if the PCs are compromised or the documents are lost; lifeboat in the storm; Sleight of Hand DC 14, Athletics DC 12. The Captain acts; Purrow will not be pleased at the ledger.
@@ -357,8 +367,9 @@ In the beat 2 interview Agatha names all three locations; that is the PCs' main 
 
 **Bonus B — Litta.** The first time she stands inside a bubble she casts with *control*. Recruit: she is looking for her path and the Resistance is one; the box is the lure and the price (Persuasion DC 12 after she has cast inside it; she asks to keep the box — Tikk refuses; Purrow has a spare). Refusal: she says she has to see what happens to Marty and Rokko first. Kidnap: only if she refuses and the players choose it — she is strong-willed, fights back inside a bubble, and Kot Kong loves her; priority stays below Lunna and the documents. Either way she ends the session knowing the Resistance exists.
 - **Marty's talk with Litta (beat 2, Location 9, door shut):** a PC listening in gets Bonus B clues on their own (she talks about the magic, unprompted). Stealth DC 13 outside the door, or Perception DC 12 through a porthole or thin wall. If Rokko's anywhere nearby, he reads that someone's listening even if he can't say who.
+- **The hold (clue):** the Filter is thinnest below the waterline, and a flicker of her gift survives there. She goes down to feed the stowaway cat and coaxes a sprout without a spell; a PC who follows her sees it. Keeping her secret earns trust; telling the Captain loses her.
 
-**Clue trail for Bonus A (any two start it):** the dictated pages; her sleep-log in the cabin; Rokko: "She goes quiet when it rains — like she's listening"; Yanni saw her "talking to the water" two nights ago; Litta's plants wilt where Agatha sleeps.
+**Clue trail for Bonus A (any two start it):** the dictated pages; her sleep-log in the cabin; Rokko: "She goes quiet when it rains — like she's listening"; Yanni saw her "talking to the water" two nights ago; Litta's plants, which thrive on the cabin deck, wilt only where Agatha sleeps.
 
 ## Act III — Storm and flying fish (≈20 min together)
 

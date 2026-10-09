@@ -9,7 +9,7 @@ Three fights of rising difficulty and one boss that cannot be beaten, for two le
 | PC | Player | Build | AC | HP | Key resources |
 | --- | --- | --- | --- | --- | --- |
 | Dash Purrster | Solo | Monk 4, Dragonborn, Criminal/Spy | 15 | 35 | Focus 4, Uncanny Metabolism 1, Breath Weapon 2 |
-| Antonia Banderas | Luke | Rogue (Thief) 4, Tabaxi, Charlatan | 16 | 27 | Feline Agility 1, Fast Hands, Second-Story Work |
+| Antonio Banderas | Luke | Rogue (Thief) 4, Tabaxi, Charlatan | 16 | 27 | Feline Agility 1, Fast Hands, Second-Story Work |
 
 | Fight | Where | Creatures | XP | Difficulty (2 PCs, level 4) |
 | --- | --- | --- | --- | --- |
@@ -18,7 +18,7 @@ Three fights of rising difficulty and one boss that cannot be beaten, for two le
 | — | Customs-house attic | Short rest (1 hour) | — | Dash regains Focus |
 | 3 | Gangway of the Reckless | Lobster Customs Inspector, Regional Manager | 900 | High (budget 1,000) |
 | 3b (optional) | Under the pier | Great Catfish | 1,800 | Beyond High; puzzle fight |
-| Boss | The whole harbour | Head Office | — | Impossible; survive and climb |
+| Boss | The whole harbour | Head Office, Kraken's Intern, Lobster (half HP) | — | Deadly for 3 PCs (\~3,300 XP vs High 1,500); winnable |
 
 **Scenario rules**
 
@@ -39,7 +39,7 @@ A warm-up that teaches one thing: the monsters are not the danger, the water is.
 
 **Arena.** A pier 15 ft wide and 80 ft long, open water on both sides, so the outer 5 ft of each edge triggers water-fear. Market stalls, ice tubs, nets hung to dry, fish crates (half cover).
 
-- **Ice tub** (Use an Object; Antonia does it with Fast Hands as a bonus action): tip it, and a 10-ft square becomes slick. A creature entering it makes a Dex save DC 10 or falls prone.
+- **Ice tub** (Use an Object; Antonio does it with Fast Hands as a bonus action): tip it, and a 10-ft square becomes slick. A creature entering it makes a Dex save DC 10 or falls prone.
 - **Drying net** (Use an Object, same): drop it on a 10-ft square. Creatures there are Restrained (escape DC 10, action).
 - **Crates:** half cover; a Medium creature can shove one 5 ft (Athletics DC 10) to block the edge.
 
@@ -145,12 +145,12 @@ The gull steals the recon sketchbook (brass clasp, very shiny) and the PCs chase
 
 **Rooftop obstacles**
 
-| Obstacle | Anyone | Antonia | Dash |
+| Obstacle | Anyone | Antonio | Dash |
 | --- | --- | --- | --- |
-| Gap of 10–15 ft. | Athletics or Acrobatics DC 12; on a fail, fall 20 ft. into a flooded alley (2d6 Bludgeoning, then the water-fear save) | No roll: Second-Story Work lets her jump using Dex | No roll if he spends 1 Focus on Step of the Wind (jump distance doubled) |
-| Wall or drainpipe, 15 ft. | Athletics DC 12, climbing at half speed | No roll: she has a climb speed | Athletics DC 12 |
+| Gap of 10–15 ft. | Athletics or Acrobatics DC 12; on a fail, fall 20 ft. into a flooded alley (2d6 Bludgeoning, then the water-fear save) | No roll: Second-Story Work lets him jump using Dex | No roll if he spends 1 Focus on Step of the Wind (jump distance doubled) |
+| Wall or drainpipe, 15 ft. | Athletics DC 12, climbing at half speed | No roll: he has a climb speed | Athletics DC 12 |
 | Fall to the street | 2d6 Bludgeoning, lands in water | — | Slow Fall (Reaction) cuts the damage by 20, so it is free |
-| Slick tiles | Difficult terrain; Dash action on them = Acrobatics DC 10 or prone | Feline Agility doubles her speed for the turn | — |
+| Slick tiles | Difficult terrain; Dash action on them = Acrobatics DC 10 or prone | Feline Agility doubles his speed for the turn | — |
 | Clothesline | Use an Object to unhook it and zip 40 ft. downhill | Fast Hands: a bonus action | — |
 | Chimney stack | Half cover | — | — |
 
@@ -184,7 +184,7 @@ The gull steals the recon sketchbook (brass clasp, very shiny) and the PCs chase
 **How to end it**
 
 - **Feed it.** Action: hold out any ration. It drops what it carries and lands to eat. No roll.
-- **Trade up.** Offer something shinier (a coin, a buckle). It swaps. Antonia can palm the coin back afterwards (Sleight of Hand DC 13).
+- **Trade up.** Offer something shinier (a coin, a buckle). It swaps. Antonio can palm the coin back afterwards (Sleight of Hand DC 13).
 - **Half HP.** It flies off with its prize; run the final dash above.
 
 *Voice:* loud, indignant, mostly consonants. Lands on a ridge like a landlord.
@@ -220,7 +220,7 @@ The Lobster has set up a desk on the Reckless's gangway and is "inspecting" the 
 
 **Showcase.**
 
-- **Antonia:** Valid Papers ends the Lobster without a blow. Fast Hands can tip lamp oil on the gangway (10-ft. square, Dex DC 10 or prone) or kick the desk into the sea. Cunning Action helps her stay out of tentacle reach.
+- **Antoni****o****:** Valid Papers ends the Lobster without a blow. Fast Hands can tip lamp oil on the gangway (10-ft. square, Dex DC 10 or prone) or kick the desk into the sea. Cunning Action helps his stay out of tentacle reach.
 - **Dash:** a Claw or Tentacle hit is Bludgeoning, so Deflect Attacks works on it (reduce by 1d10 + Dex + 4). If he brings it to 0, he can spend 1 Focus to redirect it: a creature within 5 ft. makes a Dex save against his Focus DC or takes 2d6 + Dex. Both monsters crowd the gangway, so the breath cone can catch them both.
 
 **Recon facts.** A one-legged captain wading into the flood without a flicker of fear. A scientist shouting about sonar readings. A grey cat with glasses who just watches. A red one who never stops talking.
@@ -259,7 +259,7 @@ The Lobster has set up a desk on the Reckless's gangway and is "inspecting" the 
 
 **How to end it**
 
-- **Valid Papers.** Action, Deception DC 13 (forged papers or a stamp; Antonia's forgery kit gives her +2). Success: he stamps APPROVED, releases everyone he holds, files his report and walks into the sea.
+- **Valid Papers.** Action, Deception DC 13 (forged papers or a stamp; Antonio's forgery kit gives him +2). Success: he stamps APPROVED, releases everyone he holds, files his report and walks into the sea.
 - **The Captain.** From round 3, Captain Sevastian can limp down the gangway with the ship's real papers: "Filed in triplicate." The Lobster leaves satisfied, and the Captain has now seen the PCs' faces.
 
 *Voice:* clipped and deeply offended. "Purpose of your voyage?" "This form is in triplicate." His claws click when he thinks.
@@ -352,9 +352,25 @@ Use it only if the table wants more before the boss, between Fights 2 and 3. It 
 
 - **Sonorous Purr (Recharge 5–6).** 20-ft. cone, cats only. Each makes a DC 14 Wisdom save or is Charmed for 1 minute: it sits down and starts grooming. The effect ends early if the creature takes damage.
 
+**Legendary Actions**
+
+*Legendary Action Uses: 1.* Immediately after another creature's turn, she can use Slurp. She regains the use at the start of her turn.
+
+- **Slurp.** One Medium or smaller cat within 10 ft. that she isn't already holding makes a DC 15 Dex save (Disadvantage if it is Prone or within 5 ft. of the water). *Failure:* it is swallowed. She can hold one swallowed cat at a time.
+
+**Swallowed**
+
+- **Inside.** The cat is Grappled and Restrained, has total cover from everything outside, and can't target anything outside the Catfish. Nobody outside can target it either.
+- **Acid.** It takes 7 (2d6) Acid damage at the start of each of its turns.
+- **Fighting from inside.** It can attack the Catfish's stomach with Disadvantage. The Filter's Disadvantage and this one don't stack, so the roll is simply at Disadvantage.
+- **Getting out.** Action, Athletics DC 17 (Acrobatics DC 17 to wriggle). On a success it climbs out through her mouth and lands Prone within 5 ft. of her, so within 5 ft. of the water: water-fear save at once.
+- **Spat out.** She spits the cat out the same way if a swallowed cat deals 15 or more damage to her in one turn, if she drops to half HP (52) or fewer, or if anyone feeds her (How to end it): she drops one meal for a better one.
+
+*At the table:* Slurp is her answer to cats standing on the low beams. Once someone is inside, the other PCs have a simple choice: feed her, hurt her, or wait for their friend to climb out.
+
 **How to end it**
 
-- **Feed it.** Action, Animal Handling or Persuasion DC 15 with any food. With the whole hanging crate of fish (Antonia can cut it loose with Fast Hands) the DC drops to 10. It eats, purrs once, and sinks.
+- **Feed it.** Action, Animal Handling or Persuasion DC 15 with any food. With the whole hanging crate of fish (Antonio can cut it loose with Fast Hands) the DC drops to 10. It eats, purrs once, and sinks.
 - **Half HP (52) or fewer.** It loses interest and swims off.
 
 *Voice:* a deep, rumbling, vaguely offended purr. Blinks slowly. Every whisker is a separate opinion.
@@ -376,72 +392,161 @@ Add 6–12 fry, her offspring. They're a nuisance rather than a threat: each one
 
 ## Boss · Head Office
 
-She can't be beaten, only outclimbed: the tide rises every round, she reaches only so far above the waterline, and five rounds later the fixed point ends it. Tell the players the water is rising and they can see the bell tower; the solution should be legible from the first round.
+This is the fight the run ends on, and it is built to kill: Head Office, her Intern (back from Fight 1) and the Lobster (back from Fight 3 at half HP) against three level-4 PCs and a beast, on rising water. She can be beaten: tear the costume off, then drive the jellyfish under. A PC who dies wakes in the dream chamber.
 
-**Who she is.** Nobody has seen a real Kraken in centuries, but the sea's chain of command needs one, so a giant jellyfish took the job and the costume came with it. Up close (Investigation or Perception DC 12) the seams show, and a stencil on the hem reads *PROPERTY OF THE LIVANU OPERA — KRAKEN (ACT III)*. The two "eyes" are ship's lanterns, burning the faint colour of the Glowing Cats.
+**Who she is.** Nobody has seen a real Kraken in centuries, but the sea's chain of command needs one, so a giant jellyfish took the job and the costume came with it. Up close (Investigation or Perception DC 12) the seams show, and the hem is stencilled *PROPERTY OF THE LIVANU OPERA — KRAKEN (ACT III)*. The two "eyes" are ship's lanterns, burning the faint colour of the Glowing Cats.
 
-**The climb.** The PCs start on the gangway, at the waterline.
+**The line-up.** About 3,300 XP against a High budget of 1,500 for three level-4 PCs: more than double. Expect at least one PC to drop; fought on the pier, it is a likely wipe.
 
-| Round | Waterline at initiative 0 | Next safe step up | How to get there |
+| Enemy | HP | AC | Role in the fight |
 | --- | --- | --- | --- |
-| 1 | The pier goes under | Harbour street, 30 ft. inland | Run |
-| 2 | Street flooded, 5 ft. deep | Low roofs, 15 ft. up | Wall: Athletics DC 12 (Antonia: no roll) |
-| 3 | Low roofs awash, 15 ft. | High roofs, 25 ft. up | 10-ft. gap and a 10-ft. climb (same rules as the Fight 2 table) |
-| 4 | High roofs awash, 25 ft. | Bell-tower stairs, 40 ft. up | 30-ft. outside climb, Athletics DC 12, or the door and 60 ft. of stairs |
-| 5 | Stops at 35 ft. | Bell-tower top, 60 ft. | 20 ft. of stairs; at the top she can't reach them |
+| Head Office, Phase 1 (costume) | 60 | 12 | Heavy hitter: three turns a round, slams and ink |
+| Head Office, Phase 2 (medusa) | 90 | 13 | Killer: stings that paralyse, drags under |
+| Kraken's Intern (second day) | 33 | 12 | Holds a PC for her: she has Advantage against whoever he grapples |
+| Lobster Customs Inspector | 22 of 45 | 14 (cracked) | Detains two PCs, then deports them into her reach |
 
-At initiative 0 each round the water rises to the next line. A creature below the waterline makes a DC 13 Con save; on a fail it takes 2d6 Cold damage and is swept 20 ft. back toward the harbour. Every cat that starts a turn within 5 ft. of the water makes the water-fear save as usual.
+**The tide (slower now).** The water rises at initiative 0 of rounds 2, 4 and 6, so each level is a two-round battlefield, not a sprint. A creature below the waterline when it rises makes a DC 13 Con save; on a fail it takes 2d6 Cold damage and is swept 20 ft. toward the harbour. Water-fear works as in the Scenario rules.
+
+| Rounds | Waterline | Where the fight is | Getting up a level |
+| --- | --- | --- | --- |
+| 1 | Pier ankle-deep (difficult terrain) | Pier beside the Reckless | Run 30 ft. inland to the street |
+| 2–3 | Street flooded, 5 ft. | Harbour street and low roofs (15 ft.) | Wall: Athletics DC 12 (Antonio: no roll) |
+| 4–5 | Low roofs awash, 15 ft. | High roofs (25 ft.) | 10-ft. gap and 10-ft. climb, as in the Fight 2 table |
+| 6+ | High roofs awash, 25 ft.; stops at 35 ft. | Bell tower: stairs at 40 ft., top at 60 ft. | 30-ft. climb (Athletics DC 12) or the stairs |
+
+**How the fight runs.**
+
+1. **Round 1:** she surfaces beside the Reckless. The Intern clings to her costume with the clipboard; the Lobster hauls his desk back onto the pier, shell cracked.
+2. **Phase 1** lasts until the costume hits 0 HP. Damage past 0 doesn't carry over.
+3. **Phase 2** lasts until her bell hits 0 HP (she is driven off), every PC is down, or the end of round 8 (the fixed point, below).
+4. **Melee costs nerve.** She can only be hit in melee from within 5 ft. of the water, so melee PCs roll water-fear every turn. Ranged PCs on the roofs are out of her tentacles' reach, but not out of Ink Spout's.
+
+**Three PCs and a beast.**
+
+- **Spread the pain.** Each of her three turns goes after a different creature when she can. The Intern and the Lobster pile onto whoever she just hit.
+- **The companion isn't a cat.** The Roar, the Glow, the shrimp Chorus and water-fear don't touch it, so it is the one creature that walks toward her. She targets it first whenever it is in reach.
+- **Haul Out.** A companion next to a Dragged Under creature can pull it free on the ranger's command: Athletics DC 13 with the beast's bonus; on a success both move 10 ft. toward the nearest dry level.
+- **By companion type.** Beast of the Sea swims 60 ft. and ignores the tide's Con save. Beast of the Land climbs walls with no roll. Beast of the Sky flies, so the tide only catches it if it is knocked Prone.
+- **Ruling: no magic this run.** The companion is a real trained animal, so it works without the box; the ranger's spells, Hunter's Mark included, don't.
+- **Dialling it.** Going too badly: she skips her initiative-15 turn. Too well: add the opera chorus below, or give the Lobster his full 45 HP.
 
 ### Head Office ("the Kraken")
 
 *Gargantuan beast (jellyfish, in costume), Unaligned (management)*
 
-**AC** 12 costume / 10 body · **Initiative** she acts on 20 and 10, losing ties · **HP** costume 40; body can't be reduced below 1 · **Speed** swim 40 ft.
+**AC** 12 costume / 13 bell · **Initiative** she acts on 20, 15 and 10, losing ties · **HP** costume 60, then bell 90 · **Speed** swim 40 ft.
 
 |  | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- | --- |
 | Score | 24 | 6 | 22 | 3 | 10 | 18 |
 | Mod / Save | +7 / +7 | −2 / −2 | +6 / +11 | −4 / −4 | +0 / +5 | +4 / +9 |
 
-**Condition Immunities** Charmed (except Flattery, below), Frightened, Grappled, Prone, Restrained · **Senses** Blindsight 120 ft. (the lanterns are for show), Passive Perception 10 · **Languages** understands Bureaucratese; speaks only through the foghorn · **CR** — (not a fight)
+**Condition Immunities** Charmed (except Flattery), Frightened, Grappled, Prone, Restrained · **Senses** Blindsight 120 ft. (the lanterns are for show), Passive Perception 10 · **Languages** understands Bureaucratese; speaks only through the foghorn · **CR** about 7 as an encounter (2,900 XP)
 
 **Traits**
 
-- **Two Turns.** She takes one action on initiative 20 and one on 10. No bonus actions or reactions.
-- **Reach of the Sea.** She can target any creature within 15 ft. of the waterline (20 ft. in Phase 2), in any direction, up included.
+- **Three Turns.** One action on each of initiative 20, 15 and 10. No bonus actions or reactions. She can't use the same Recharge action twice in one round.
+- **Reach of the Sea.** Her melee actions reach any creature within 15 ft. of the waterline (20 ft. in Phase 2), up included.
 - **Not a Cat.** The Filter does nothing to her.
+- **Seams.** Antonio can unpick a seam with Fast Hands: bonus action, Sleight of Hand DC 14, 10 damage to the costume. The costume takes double damage from Slashing.
+- **Flattery.** Once per phase, each cat can praise the costume (Phase 1) or her figure (Phase 2) as an action: Persuasion DC 15. On a success she loses her next turn posing.
 
-**Phase 1 · The Costume**
+**Phase 1 · The Costume (choose one per turn)**
 
-- **Costume.** Damage hits the costume (AC 12, 40 HP); it takes double damage from Slashing. Antonia can **unpick a seam** with Fast Hands: bonus action, Sleight of Hand DC 14, 10 damage to the costume. Phase 2 starts when the costume hits 0, or at the start of round 4 if it hasn't (she outgrows it).
-- **Costume Slam (action).** *Melee Attack Roll:* +8, against a creature within reach. *Hit:* 15 (2d10 + 4) Bludgeoning damage (heavy wet stuffed canvas), and the target makes a DC 15 Strength save or falls Prone.
-- **The Roar (action, Recharge 5–6).** A foghorn inside the mask. Each cat within 60 ft. makes a DC 13 Wisdom save or is Frightened of her until the end of its next turn (it can still climb away; it can't move closer).
-- **The Glow (action, Recharge 5–6).** The lantern eyes flare. Each cat within 60 ft. that can see them makes a DC 15 Charisma save. *Failure:* it forgets the last minute and is Incapacitated until the end of its next turn ("Oh — what was I doing?"). *Success:* it glimpses, in the light, an island falling out of the sky into the sea. A PC can spend Inspiration to ignore the Filter for this roll.
+- **Costume Slam.** *Melee Attack Roll:* +8, a creature within reach. *Hit:* 15 (2d10 + 4) Bludgeoning damage, and the target makes a DC 15 Strength save or falls Prone.
+- **Ink Spout.** *Ranged Attack Roll:* +8, range 60/120 ft. *Hit:* 13 (2d8 + 4) Bludgeoning damage, and the target makes a DC 13 Con save or is Blinded until the end of its next turn. This is her answer to cats shooting from the roofs.
+- **The Roar (Recharge 5–6).** A foghorn inside the mask. Each cat within 60 ft. makes a DC 13 Wis save or is Frightened of her until the end of its next turn.
+- **The Glow (Recharge 5–6).** Each cat within 60 ft. that can see the lanterns makes a DC 15 Cha save. *Failure:* it forgets the last minute and is Incapacitated until the end of its next turn. *Success:* it glimpses an island falling out of the sky into the sea. A PC can spend Inspiration to ignore the Filter for this roll.
 
-**Phase 2 · The Medusa**
+**Phase 2 · The Medusa (choose one per turn)**
 
-The costume slumps into the harbour. Underneath is a jellyfish 60 ft. across, see-through, glowing from inside.
+The costume slumps into the harbour; underneath is a see-through jellyfish 60 ft. across, glowing from inside.
 
-- **Mortified.** In her first round of Phase 2 she spends both turns trying to get the mask back on. That is the players' one free round.
-- **Flattery.** A cat can praise the costume as an action (Persuasion DC 15; +2 DC for each later success). On a success she spends her next action posing.
-- **Mostly Sea.** Her body can't drop below 1 HP, and she has Resistance to Bludgeoning, Piercing and Slashing damage.
-- **Stings (action).** Two Sting attacks. *Sting — Melee Attack Roll:* +10, against a creature within reach. *Hit:* 9 (2d8) Poison damage, and the target makes a DC 15 Constitution save or is Paralyzed until the end of its next turn.
-- **Drag Under (action).** One Paralyzed or Prone creature within reach is pulled 20 ft. into the water. It is Restrained and takes 2d6 Cold damage at the start of each of its turns. Escape: action, Athletics or Acrobatics DC 15, or an ally deals 10 damage to the tentacle holding it (AC 10).
-- **The Glow (action, Recharge 4–6).** As in Phase 1, but her whole body glows: every cat within 60 ft. of the waterline makes the save, line of sight or not.
+- **Mortified.** In her first Phase 2 round she spends her initiative-20 turn trying to get the mask back on. Her other two turns are furious.
+- **Stings.** Two Sting attacks against the same creature within reach. *Sting — Melee Attack Roll:* +8. *Hit:* 9 (2d8) Poison damage. If both hit, the target makes a DC 14 Con save or is Paralyzed until the end of its next turn.
+- **Drag Under.** One Paralyzed or Prone creature within reach is pulled 20 ft. into the water: Restrained, and 2d6 Cold damage at the start of each of its turns. Escape: action, Athletics or Acrobatics DC 15; or an ally deals 10 damage to the tentacle holding it (AC 13; the damage also counts against her bell). A creature at 0 HP under the water fails one death save at the start of each of its turns.
+- **Ink Spout.** As in Phase 1.
+- **The Glow (Recharge 5–6).** As in Phase 1, but her whole body glows: every cat within 60 ft. of the waterline makes the save, line of sight or not.
 
-**How it ends**
+*Expected damage:* about 27 a round in Phase 1 and 38 in Phase 2 from her alone, before the Intern and the Lobster.
 
-- **Outclimb her.** Anyone at the top of the bell tower at the end of round 5 is out of reach; the tide stops at 35 ft.
-- **The fixed point (the Reckless sails).** At the end of round 5 she reaches for the Reckless. On the bow, the red cat stops mid-sentence and looks at her. Her glow goes out. She quietly gathers up the mask and sinks without a sound. Then Rokko looks up at the bell tower, straight at them. Never explain it.
-- **0 HP.** In a vision run, this ends the run and gives you the reveal: the dream chamber, Purrow standing over them. In a real run, Purrow's crew fishes them out of the harbour at dawn with 1 HP and one level of Exhaustion.
+*Voice:* none, apart from the foghorn. In Phase 2, small furious bubbles.
 
-*Voice:* none, apart from the foghorn. In Phase 2, small embarrassed bubbles.
+### Kraken's Intern (second day)
+
+*Medium aberration, Neutral (eager to impress)* · Ability scores as in Fight 1
+
+**AC** 12 · **Initiative** +1 (11) · **HP** 33 (6d8 + 6; he left Fight 1 unhurt or has since recovered) · **Speed** 10 ft., swim 30 ft. · **CR** 1 (200 XP)
+
+**Traits**
+
+- **Amphibious.** Breathes air and water.
+- **Second Day.** No more shaking hands: his first attack has no Disadvantage.
+- **Holding for the Boss.** Head Office has Advantage on attack rolls against a creature he is grappling. This is what makes him dangerous; free that PC first.
+
+**Actions**
+
+- **Tentacle.** *Melee Attack Roll:* +4, reach 10 ft. *Hit:* 6 (1d8 + 2) Bludgeoning damage, and the target is Grappled (escape DC 12). One creature at a time.
+
+**Bonus Actions**
+
+- **To the Edge.** He stays at the waterline and drags the creature he is grappling up to 10 ft. toward himself. If it ends within 5 ft. of open water, it makes the water-fear save at once; on a failure it loses its next turn to panic (see Scenario rules).
+
+**Reactions**
+
+- **Ink Cloud (1/Day).** When he takes damage: a 10-ft.-radius cloud, Heavily Obscured until the start of his next turn; he swims 10 ft. without provoking.
+
+**How to end it**
+
+- **Praise.** Action, Persuasion DC 14 while Head Office can see him (DC 10 while she can't). He lets go and hides behind her for 1 minute. If a PC praised him in Fight 1, that PC's first Praise here succeeds automatically: he waves shyly first.
+- **0 HP.** He flees under the water, and the memo floats to the surface.
+
+*Voice:* "Boss! Boss, I've got one!" Then, quieter: "Sorry."
+
+### Lobster Customs Inspector (half processed)
+
+*Medium monstrosity, Lawful Neutral* · Ability scores as in Fight 3
+
+**AC** 14 (cracked shell) · **Initiative** +0 (10) · **HP** 22 of 45 · **Speed** 20 ft., swim 30 ft. · **CR** 2 (about 225 XP at half HP)
+
+**Traits**
+
+- **Amphibious.** Breathes air and water.
+- **Detained.** He never attacks a cat he is grappling. While he holds two, he won't move and uses Process as his action.
+- **Countersigned.** Head Office has signed the original order, so Valid Papers is now DC 15.
+
+**Actions**
+
+- **Multiattack.** Two Claw attacks, minus one for each cat he is holding.
+- **Claw.** *Melee Attack Roll:* +5, reach 5 ft. *Hit:* 7 (1d8 + 3) Bludgeoning damage, and a Medium or smaller target is Grappled (escape DC 13). He can hold two creatures.
+- **Process (only while holding two cats).** On his **second** Process (not third, as in Fight 3) he stamps both forms DEPORTED and flings each held cat 15 ft. into the water, inside Head Office's reach. They take the water-fear save at once and need Athletics DC 12 and their movement to climb out. Escaping or Valid Papers resets the form.
+
+**Bonus Actions**
+
+- **Request Documents (Recharge 5–6).** One creature within 30 ft. makes a DC 12 Cha save or spends its next action rummaging for papers.
+
+**Reactions**
+
+- **Stamp!** Once per round, when a creature he can see makes an attack roll: −2 to that roll.
+
+**How to end it**
+
+- **Valid Papers.** Action, Deception DC 15. He stamps APPROVED, releases everyone, and wades off to file.
+- **0 HP.** He stamps his own form RETIRED and sinks with dignity. At 22 HP he is the fastest enemy to remove; say so if the players are stuck.
+
+*Voice:* "You again. This form is now in quadruplicate."
+
+### How it ends
+
+- **Drive her off.** Her bell hits 0: the glow goes out, she gathers the mask and sinks. The Intern follows ("Boss, wait!"); the Lobster stamps MEETING ADJOURNED and wades after them. The PCs won. On the Reckless's bow, the red cat looks up at them anyway.
+- **The fixed point.** If she is still up at the end of round 8, she reaches for the Reckless. The red cat on the bow stops mid-sentence and looks at her. Her glow goes out and she sinks without a sound, taking her staff with her. Then Rokko looks up, straight at the PCs. Never explain it.
+- **Death.** A PC at 0 HP makes death saves as usual (one automatic failure per turn spent under the water). A PC who dies wakes at once in the dream chamber with Purrow standing over them, while the others keep fighting, unaware. As in the DM Document, tell that player privately. If every PC is down, the run ends and you have your reveal.
 
 ### Optional · The opera chorus (distraction)
 
-Head Office didn't come alone: 6–12 shrimp from the Livanu Opera's chorus line, still in their little tentacle costumes, ride the rising water and sing her entrance theme. They make the climb harder, not deadlier. Don't count them toward anything.
+Head Office didn't come alone: 9–15 shrimp from the Livanu Opera's chorus line, still in their little tentacle costumes, ride the rising water and sing her entrance theme. They make the climb harder, not deadlier. Don't count them toward anything.
 
-**Chorus Shrimp** · *Tiny beast (minion), Unaligned (theatrical)* · **AC** 11 · **HP** 1 · **Speed** 10 ft., swim 40 ft. · **Init** all shrimp act together on initiative 15
+**Chorus Shrimp** · *Tiny beast (minion), Unaligned (theatrical)* · **AC** 11 · **HP** 1 · **Speed** 10 ft., swim 40 ft. · **Init** all shrimp act together on initiative 5
 
 - **Minion.** Any damage kills it, including half damage from a successful save.
 - **Ride the Tide.** They are always at the waterline. When the tide rises at initiative 0, every surviving shrimp rises with it for free.

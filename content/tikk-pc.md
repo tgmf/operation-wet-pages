@@ -17,7 +17,7 @@ D&D 2024 (5.5e) · Level 4 · Replaces the NPC operator when a fourth player is 
 
 ---
 
-## Tikk (Тикк), the operator
+## Tikk, the operator
 
 *Level 4 · Artificer (Artillerist) 4 · Human chassis (Small) with cat package · Criminal background · Lawful Neutral*
 

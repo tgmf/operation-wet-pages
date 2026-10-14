@@ -478,7 +478,7 @@
 
 ---
 
-## 9 · Lunna (Лунна)
+## 9 · Lunna
 
 *Level 8 · Rogue (Thief) 5 / Bard (College of Glamour) 3 · Human chassis (Small) with cat package · Charlatan background · Chaotic Neutral*
 

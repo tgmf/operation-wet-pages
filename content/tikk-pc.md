@@ -1,14 +1,6 @@
 # Operation: Wet Pages — Tikk, Player Character
 
-2026-10-13 · D&D 2024 (5.5e) · Level 4 · Replaces the NPC operator when a fourth player is at the table
-
-## How to use this sheet
-
-**What changed.** Tikk is no longer the quiet NPC who cranks when told. With a fourth player he is a full PC: an Artillerist artificer built around the one thing nobody else on the team has. He always stands in the middle of the bubble, so his magic is the most reliable on the ship. The NPC version stays in *Crew & Tikk* as the fallback for a three-player table.
-
-**The crank rule.** Cranking the box is Tikk's **free object interaction** on each of his turns. The bubble runs from that crank until the start of his next turn. He keeps his full move, action, Bonus Action and Reaction, the same as every other PC. Nobody commands him: the player decides. The old rules (half speed while cranking, one command per turn from a PC) are retired.
-
-**Decisions made for you.** A dagger (†) marks something invented for this sheet; strike anything you dislike.
+D&D 2024 (5.5e) · Level 4 · Replaces the NPC operator when a fourth player is at the table
 
 - **Artillerist.** It is the most magic-forward subclass and the strongest at this level. The cannon gives the box a second voice, and *Shield* keeps the box carrier standing. If the table would rather have a healer, Alchemist is the swap: replace Shield and Thunderwave with Healing Word and Ray of Sickness, and Tock with Experimental Elixirs. The rest of the sheet stands.
 - **Level 4**, matching the Player Handout and the DM Document. The Takedown Kit says level 3, so the level-3 numbers are in a box at the end.
@@ -21,7 +13,7 @@
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 15 (20 with *Shield*) | 35 | 40 ft | +4 | 14 | +6 (+7 with the wand) | Con save +5 | 13 |
 
-**A typical turn.** *Free:* crank. *Bonus Action:* Tock fires or shields, or a telekinetic shove. *Action:* Sleep, Mind Sliver, Thunderwave, Mage Hand, or a check. *Reaction:* Shield. *Move:* full 40 ft.
+**A typical turn.** *Free:* crank. *Bonus Action:* Tock fires or a telekinetic shove. *Action:* Sleep, Mind Sliver, Thunderwave, Mage Hand, or a check. *Reaction:* Shield. *Move:* full 40 ft.
 
 ---
 
@@ -46,13 +38,13 @@
 **Senses** Darkvision 60 ft.; Passive Perception 13, Passive Investigation 16, Passive Insight 11
 **Languages** Common, two of your choice; Resistance hand-signals †
 **Feats** Alert (Criminal), Magic Initiate: Wizard (Human Versatile), Speedy (cat), Telekinetic (Artificer 4)
-**Species traits** Human: Skillful (Arcana), Resourceful (Heroic Inspiration after every Long Rest, so he starts each run with it; it also pays for *the worm of doubt*). Speedy: +10 ft. Speed, Dash ignores difficult terrain, and Opportunity Attacks against him have Disadvantage.
+**Species traits** Human: Skillful (Arcana), Resourceful (Heroic Inspiration after every Long Rest, so he starts each run with it). Speedy: +10 ft. Speed, Dash ignores difficult terrain, and Opportunity Attacks against him have Disadvantage.
 
 **Class features.** Spellcasting (Int; focus is his tools or the replicated wand). Tinker's Magic. Replicate Magic Item (4 plans, 2 items at a time). Artillerist: Tools of the Trade, Eldritch Cannon, Artillerist Spells. *Alert:* Initiative Swap. When the bubble needs to be up before a friend's turn, he swaps.
 
 ### The box
 
-***The Operator's Knack †.*** Cranking is Tikk's free object interaction each turn. Anyone else who cranks pays their **action** each turn; the knack is his alone. Because the crank takes his free interaction, any other object interaction that turn (opening a door, handing over the notebook) costs his Utilize action. Out of combat he cranks as long as he likes. If he was cranking when Initiative is rolled, the bubble holds until his first turn ends.
+***The Operator's Knack †.*** Cranking is Tikk's free object interaction each turn. Anyone else who cranks pays their **action** each turn; the knack is his alone. Because the crank takes his free interaction, any other object interaction that turn (opening a door, handing over the notebook) costs his Utilize action. Out of combat he cranks as long as he likes. If he was cranking when Initiative is rolled, the bubble holds until the start of his second turn.
 
 ***When the bubble drops.*** It drops the moment he skips a crank, is Incapacitated (which includes Unconscious), or loses the box, and on surge 19.
 
@@ -84,15 +76,15 @@
 | *Cure Wounds* | Prepared | Earth | 2d8 + 4. Flesh knits like wet clay |
 | *Detect Magic* | Prepared (ritual) | Mind | The waltz sours near magic. Finds the arcane lock on the Captain's safe |
 
-*Swap list for the prepared five:* Feather Fall, Jump, Longstrider, Sanctuary, False Life, Alarm.
+*Swap list for the prepared five:* Jump, Longstrider, Sanctuary, False Life, Alarm.
 
-### Bubble only: Tock, the eldritch cannon †
+### Tock, the eldritch cannon †
 
 Tikk's cannon is a brass metronome on crab legs that ticks in time with the waltz and fires on the downbeat.
 
 - **Making it.** A Magic action with Tinker's or Smith's Tools, in a space within 5 ft. Free once per Long Rest; after that it costs a spell slot. Small or Tiny, AC 18, **20 HP**, immune to Poison and Psychic damage. It lasts 1 hour, until it drops to 0 HP, or until he dismisses it.
-- **Using it.** As a Bonus Action, Tikk orders it within 60 ft. It can move 15 ft. before or after the order. **Tock acts only while it stands inside the bubble †.** Outside it, filtered cats see a clockwork toy.
-  - **Brine Jet** (Flamethrower): 15-ft. cone, Dex save DC 14, 2d8 + 4 Cold damage, half on a success. It soaks instead of igniting: unheld lanterns go out.
+- **Using it.** As a Bonus Action, Tikk orders it within 60 ft. It can move 15 ft. before or after the order.
+  - **Brine Jet** (Flamethrower): 15-ft. cone, Dex save DC 14, 2d8 + 4 Acid damage, half on a success. It soaks instead of igniting: unheld lanterns go out.
   - **Stone Shot** (Force Ballista): ranged spell attack +6 (+7 with the wand), 120 ft., 2d8 + 4 Force damage, and the target is pushed 5 ft. away from Tock.
   - **Shell** (Protector): Tock and chosen creatures within 10 ft. gain 1d8 + 4 Temporary HP.
 
@@ -119,7 +111,7 @@ Tikk's cannon is a brass metronome on crab legs that ticks in time with the walt
 | Dagger | +4 | 1d4 + 2 Piercing |
 | *Mind Sliver* | Int save DC 14 | 1d6 Psychic, −1d4 on next save |
 | Tock: Stone Shot | +6 (+7 with the wand) | 2d8 + 4 Force, push 5 ft. |
-| Tock: Brine Jet | Dex save DC 14 | 2d8 + 4 Cold, half on a success |
+| Tock: Brine Jet | Dex save DC 14 | 2d8 + 4 Acid, half on a success |
 | *Thunderwave* | Con save DC 14 | 2d8 Thunder, push 10 ft. |
 
 Outside the bubble, attacks against cats have Disadvantage like everyone's. Inside it, nobody does.
@@ -129,20 +121,16 @@ Outside the bubble, attacks against cats have Disadvantage like everyone's. Insi
 ***The Marty Order.*** Captain's word, from above Purrow: the box never runs within 20 ft. of the grey cat with glasses. The NPC version simply refused. The player version keeps the order the same way, and the DM will ask you to treat it as Tikk's one unbreakable rule before the session.
 ***Loyalty Stack †.*** Purrow's orders first, then the box's safety, then the team. Anything that puts the box in the sea or near Marty loses to the first two.
 ***Filtered Cat.*** When he stops cranking he is a cat like any other. That means the water-fear save (DC 12, no Advantage, since he is not a Reckless sailor), graciousness and magic blindness.
-***Braver Inside †.*** He is calmest while cranking, and he has noticed. He won't say why.
+***Braver Inside †.*** He is calmest while cranking. He won't say why.
 
-### Roleplay seeds (from the NPC version; the voice is yours now)
+### Roleplay seeds
 
-Young, earnest, clipped. Reports in counts. Calls the box "she" and whoever is in charge "boss". Counts crank turns under his breath and apologises to the box when he loses count. Oils the crank every ten minutes and presses the crank pin into his thumb when nervous. Lines: "Bubble's up. Twenty feet, boss." "Captain's word." "Can't hear her! Cranking anyway!" When Tock fires: "On the one."
+Young, earnest, clipped. Reports in counts. Calls the box "she" and whoever is in charge "boss". Counts crank turns under his breath and apologises to the box when he loses count. Oils the crank every ten minutes and presses the crank pin into his thumb when nervous.
 
 ### Rulings this sheet assumes †
 
-Each is a default; strike any you dislike, and tell the player before play.
+Each is a default;
 
 1. **Reaching out of the bubble.** A spell cast inside the bubble can land outside it. A mind effect on a cat outside ends at once (the Filter takes the mind back), but physical effects stay: a shove, a Stone Shot, the invisible Mage Hand at 60 ft. Filtered cats who see the hand rationalise it ("the wind had it").
 2. **Tock fires only inside the bubble**, because the shot is new magic and starts at the cannon.
-3. **Made things persist.** Replicated items and Tinker's Magic items are made inside a bubble and then work anywhere, following the DM Document's "already running" rule. Passive bonuses (+1) apply everywhere. Activating something (the rope's command, the wand as a focus) needs the bubble.
-
-### At level 3
-
-Use these if the table plays at level 3: **HP 27**, Int 17 (+3), Int save +5, **spell DC 13, spell attack +5** (+6 with the wand), Arcana and Investigation +5, Passive Investigation 15. **No Telekinetic**, so no shove, and Mage Hand is visible, 30 ft., with components. Four prepared spells (drop *Grease*). Three Tinker's Magic uses. Tock has **15 HP**, and its damage and Shell are +3 instead of +4.
+3. **Made things persist.** Replicated items and Tinker's Magic items are made inside a bubble and then work anywhere, Passive bonuses (+1) apply everywhere.

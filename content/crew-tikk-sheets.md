@@ -41,6 +41,8 @@ Everyone is below the nine named NPCs and, apart from the helmsman, at or below 
 
 ## 1 · Tikk (Тикк), the operator
 
+> **Three-player fallback.** With a fourth player Tikk is a PC: use *Tikk PC Sheet* (Artillerist 4, free-interaction crank) and skip this section.
+
 *Level 3 · Artificer (Alchemist) 3 · Human chassis (Small) with cat package · Criminal background · Lawful Neutral*
 
 **AC** 14 (chain shirt 13 + Dex 1; matches the DM Document) **Initiative** +3 (13; Alert adds PB)

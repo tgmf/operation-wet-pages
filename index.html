@@ -157,6 +157,30 @@
     color: var(--text-dim);
   }
   hr { border: none; border-top: 1px solid var(--border); margin: 2em 0; }
+  .gate { max-width: 320px; margin: 60px auto; text-align: center; }
+  .gate p { color: var(--text-dim); }
+  .gate input[type="password"] {
+    width: 100%;
+    padding: 10px 12px;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    background: var(--bg-alt);
+    color: var(--text);
+    font-size: 1rem;
+    margin: 10px 0;
+  }
+  .gate button {
+    background: var(--accent);
+    color: var(--accent-text);
+    border: none;
+    border-radius: 8px;
+    padding: 10px 20px;
+    font-size: 1rem;
+    font-weight: 600;
+    cursor: pointer;
+    min-height: 44px;
+  }
+  .gate-error { color: var(--gm); font-size: 0.9rem; }
   .mermaid { background: var(--bg-alt); border: 1px solid var(--border); border-radius: 8px; padding: 12px; margin: 1em 0; overflow-x: auto; }
   #loading { color: var(--text-dim); padding: 40px 0; text-align: center; }
   footer {
@@ -186,13 +210,21 @@
 <script>
   const docs = [
     { id: "player-handout", label: "Player Handout", file: "content/player-handout.md" },
-    { id: "npc-sheets", label: "NPC Sheets", file: "content/npc-sheets.md" },
-    { id: "crew-tikk-sheets", label: "Crew & Tikk", file: "content/crew-tikk-sheets.md" },
+    { id: "npc-sheets", label: "NPC Sheets", file: "content/npc-sheets.md", locked: true },
+    { id: "crew-tikk-sheets", label: "Crew & Tikk", file: "content/crew-tikk-sheets.md", locked: true },
     { id: "tikk-pc", label: "Tikk (PC)", file: "content/tikk-pc.md" },
-    { id: "dm-document", label: "DM Document", file: "content/dm-document.md", gm: true },
+    { id: "dm-document", label: "DM Document", file: "content/dm-document.md", gm: true, locked: true },
     { id: "recon-head-office", label: "Head Office", file: "content/recon-head-office.md" },
     { id: "takedown-kit", label: "Takedown Kit", file: "content/takedown-kit.md" },
   ];
+
+  const GATE_PASSWORD = "vkvb";
+  function isUnlocked() {
+    try { return localStorage.getItem("wetpages-unlocked") === "1"; } catch (e) { return false; }
+  }
+  function setUnlocked() {
+    try { localStorage.setItem("wetpages-unlocked", "1"); } catch (e) {}
+  }
 
   const tabsEl = document.getElementById("tabs");
   const contentEl = document.getElementById("content");
@@ -245,6 +277,11 @@
     if (pushHash) history.replaceState(null, "", "#" + doc.id);
     try { localStorage.setItem("wetpages-lasttab", doc.id); } catch (e) {}
 
+    if (doc.locked && !isUnlocked()) {
+      renderGate(doc);
+      return;
+    }
+
     if (cache[doc.id]) {
       contentEl.innerHTML = cache[doc.id];
       renderMermaid();
@@ -266,6 +303,33 @@
       contentEl.innerHTML = "<p>Could not load this page.</p>";
     }
     window.scrollTo(0, 0);
+  }
+
+  function renderGate(doc) {
+    contentEl.innerHTML =
+      '<div class="gate">' +
+      '<p>This page is hidden. Enter the password to view it.</p>' +
+      '<form id="gate-form">' +
+      '<input id="gate-input" type="password" autocomplete="off" placeholder="Password">' +
+      '<button type="submit">Unlock</button>' +
+      '</form>' +
+      '<p id="gate-error" class="gate-error" style="display:none">Wrong password.</p>' +
+      '</div>';
+    const form = document.getElementById("gate-form");
+    const input = document.getElementById("gate-input");
+    const error = document.getElementById("gate-error");
+    input.focus();
+    form.addEventListener("submit", (e) => {
+      e.preventDefault();
+      if (input.value === GATE_PASSWORD) {
+        setUnlocked();
+        loadDoc(doc.id, false);
+      } else {
+        error.style.display = "block";
+        input.value = "";
+        input.focus();
+      }
+    });
   }
 
   function wrapTables() {

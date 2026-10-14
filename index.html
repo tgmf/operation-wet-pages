@@ -218,7 +218,7 @@
     { id: "takedown-kit", label: "Takedown Kit", file: "content/takedown-kit.md" },
   ];
 
-  const GATE_PASSWORD = "vkvb";
+  const GATE = "vkbv";
   function isUnlocked() {
     try { return localStorage.getItem("wetpages-unlocked") === "1"; } catch (e) { return false; }
   }
@@ -321,7 +321,7 @@
     input.focus();
     form.addEventListener("submit", (e) => {
       e.preventDefault();
-      if (input.value === GATE_PASSWORD) {
+      if (input.value === GATE) {
         setUnlocked();
         loadDoc(doc.id, false);
       } else {

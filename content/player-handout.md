@@ -2,8 +2,6 @@
 
 ## Player handout — what you know before you roll
 
-Send this as is. It contains only what a low-level operative would know; everything else comes out at the table.
-
 **The world.** Cats fear water. Nobody fights, nobody argues seriously, nobody talks about magic — not in life, not in books. Everyone thinks that is just how cats are. You know better: there is something pressing on every cat's mind, the organisation calls it **the Filter**, and it can be jammed. A hand-cranked music box makes a 20 ft bubble where the Filter stops. Inside it magic works, tempers work, and cats remember what they see. Outside it you will feel the pull toward politeness like everyone else. Magic is real, rare, and you have used it perhaps a dozen times in your life — always inside a bubble, always with a surprise or two.
 
 **The Resistance.** A secret network of cats with "features". You know there are Leaders; you have never met them and don't know how big it all is. You know your cell: **Captain Jack Purrow**, his ship, and the pirate colours you sail under — pirates are the cover, not the job. You have done at least one job with Purrow before. The organisation's purpose, as far as you were told: find out who is doing this to cats, and help the gifted ones before someone else finds them.

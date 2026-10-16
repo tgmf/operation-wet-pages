@@ -229,6 +229,7 @@
   const tabsEl = document.getElementById("tabs");
   const contentEl = document.getElementById("content");
   const bannerEl = document.getElementById("doc-banner");
+  const pageTitleEl = document.getElementById("page-title");
   const cache = {};
 
   function applyTheme(theme) {
@@ -272,6 +273,7 @@
     const doc = docs.find((d) => d.id === id) || docs[0];
     setActiveTab(doc.id);
     bannerEl.classList.toggle("show", !!doc.gm);
+    pageTitleEl.textContent = doc.label;
     if (pushHash) history.replaceState(null, "", "#" + doc.id);
     try { localStorage.setItem("wetpages-lasttab", doc.id); } catch (e) {}
 

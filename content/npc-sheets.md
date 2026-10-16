@@ -527,13 +527,3 @@
 **Under pressure.** She gets warmer, then very still, then honest. After Rokko is lost (W3): softer, direct sentences, no jokes.
 
 **At the table.** Goal 1, NPC only. She refused retrieval in Livanu and will refuse again unless a lever lands.
-
----
-
-## Continuity flags
-
-- **Marty's surname.** Resolved by you: he is now **Urch** (recently renamed). Older sources still carry the previous names: the book once calls him Adams (ch. 3) and Андерс (ch. 5), the DM Document treats hearing "Adams" as a blown cover, and *Основные герои* gives his father as Сатурн Адамс. I have left those lines as they are on the sheets (Marty's "At the table" note still says "Adams") until you decide what the cover-blowing name is now.
-- **Tikk.** The DM Document gives Tikk AC 14 / 26 HP in Mechanics and AC 12 / 16 HP in the pre-gen section.
-- **Party size and level.** These sheets assume the DM Document's three level-4 PCs; the older project notes say level 3 and two PCs.
-- **Class hints.** The DM Document says Marty is Artificer/Cleric(?) and the project notes say Wizard/Artificer; I built pure Artificer 7. Agatha's older note says Paladin/Fighter; I followed the DM Document's Fighter 2 / Cleric.
-- **Roster count.** "Nine named cats (and one marsupial)" lists nine NPCs total once the Captain is counted.
